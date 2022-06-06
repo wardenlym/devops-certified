@@ -23,3 +23,6 @@ Kubernates Certified Application Developer(CKAD)
 
 分析IaC 必要な基盤開発技術
 “面”是指什么意思？
+
+
+印度考王的blog https://jayendrapatil.com/
