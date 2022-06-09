@@ -45,3 +45,9 @@ Kubernates Certified Application Developer(CKAD)
 
 调查SAA考试相关内容，准备SAA备考材料
 
+2022-6-9
+
+确定考纲内容，寻找材料，确认视频学习资料和白皮书等
+
+简单看了下SAP的内容，有些困难，暂时集中精力放在SAA考试
+
