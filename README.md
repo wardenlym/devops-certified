@@ -51,3 +51,7 @@ Kubernates Certified Application Developer(CKAD)
 
 简单看了下SAP的内容，有些困难，暂时集中精力放在SAA考试
 
+2022-8-14 
+
+通过SAA C-02考试，下一步进行SAP的学习
+
